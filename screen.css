@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  /* Style the header */
+  .header {
+    margin-left: 75px;
+    background-color: #ffffff;
+    padding: 10px;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 25px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    color: #424242;
+  }
+  
+  /* Style the top navigation bar */
+  .topnav {
+    background: url("federica-galli-aiqKc07b5PA-unsplash\ 1.png");
+    overflow: hidden;
+    border-radius: 20px;
+    height: 220px;
+    width: 800px;
+    margin-bottom: 20px;
+    margin-left: 75px;
+    margin-right: 50px;
+    display: flex;
+    float:inline-start;
+    
+  }
+  
+  /* Style the topnav links */
+  
+  
+  /* Create three equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    background-color: #E9EAEC;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 75px;
+    width: 365px;
+    height: 300px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  
+  .column2 {
+    float: left;
+    background-color: #000000;
+    border-radius: 0px 0px 20px 20px;
+    margin-left: -15px;
+    width: 365px;
+    height: 185px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(255, 249, 249);
+    text-align:justify;
+}
