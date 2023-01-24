@@ -2,8 +2,6 @@
     box-sizing: border-box;
   }
   
-  
-  /* Style the header */
   .header {
     margin-left: 75px;
     background-color: #ffffff;
@@ -19,7 +17,6 @@
     color: #424242;
   }
   
-  /* Style the top navigation bar */
   .topnav {
     background: url("federica-galli-aiqKc07b5PA-unsplash\ 1.png");
     overflow: hidden;
@@ -34,10 +31,7 @@
     
   }
   
-  /* Style the topnav links */
-  
-  
-  /* Create three equal columns that floats next to each other */
+ 
   .column {
     float: left;
     width: 33.33%;
